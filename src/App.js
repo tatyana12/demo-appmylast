@@ -37,21 +37,17 @@ const AppRouter = () => (
 
              Familie's  information (2018)</button>
 
+              <center><div class="shadowbox"><body id="myBody">
+        <a href="#myBody">Make it Blue</a></body></div></center>
+
+      <center><div class="shadowbox"><body1 id="myBody1">
+        <a href="#myBody1">Or Green</a></body1></div></center>
+
+
 
          </Link></center>
          
-      <center><div class="shadowbox"><body id="myBody">
-        <a href="#myBody">Make it Blue</a></body></div></center>
-  
-      <center><div class="shadowbox"><body1 id="myBody1">
-        <a href="#myBody1">Or Green</a></body1></div></center>
-     
-     
-
-      
-
-
-<div className="row">
+     <div className="row">
      <div className="column">
       <div>
           <Link to="/one/">
