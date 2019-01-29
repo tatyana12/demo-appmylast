@@ -41,10 +41,10 @@ const AppRouter = () => (
 
 
      <center><div class="shadowbox"><body id="myBody">
-        <a href="#myBody">Make it Blue</a></body></div></center>
+        <a href="#myBody">First it Blue</a></body></div></center>
 
       <center><div class="shadowbox"><body1 id="myBody1">
-        <a href="#myBody1">Or Green</a></body1></div></center>
+        <a href="#myBody1">or Green</a></body1></div></center>
 
 
 
