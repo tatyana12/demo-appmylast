@@ -64,7 +64,7 @@ body {
     height: 200px;
 }
 
-body:target { background-color:black; }
+
 
 
 body:target { background-color:blue; }
