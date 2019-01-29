@@ -43,19 +43,19 @@ const AppRouter = () => (
      <center><div class="shadowbox"><body id="myBody">
         <a href="#myBody">First it Blue</a></body></div></center>
 
-<<<<<<< HEAD
+
       <center><div class="shadowbox"><body1 id="myBody1">
         <a href="#myBody1">or Green</a></body1></div></center>
 
 
 
          
-     <div className="row">
-=======
+     
+
          </Link></center>
          
    <div className="row">
->>>>>>> be77e331a8484ffb464b937475ee65edf08901fe
+
      <div className="column">
       <div>
           <Link to="/one/">
