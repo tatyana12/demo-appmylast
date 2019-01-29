@@ -47,12 +47,7 @@ const AppRouter = () => (
       <center><div class="shadowbox"><body1 id="myBody1">
         <a href="#myBody1">or Green</a></body1></div></center>
 
-
-
-         
-     
-
-         </Link></center>
+    
          
    <div className="row">
 
