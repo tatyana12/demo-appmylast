@@ -65,8 +65,12 @@ body {
 }
 
 body:target { background-color:black; }
- 
+body:target { background-color:white; }
+
 body:target { background-color:blue; }
+
+ 
+
  
 
 
