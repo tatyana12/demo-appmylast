@@ -38,7 +38,7 @@ const AppRouter = () => (
              Familie's  information (2018)</button>
 
               </Link></center>
-
+     </div>
 
      <center><div class="shadowbox"><body id="myBody">
         <a href="#myBody">First it Blue</a></body></div></center>
