@@ -39,12 +39,7 @@ const AppRouter = () => (
 
               </Link></center>
      
-
-     
-
-    
-         
-   <div className="row">
+ <div className="row">
 
      <div className="column">
       <div>
